@@ -1,16 +1,10 @@
 # dioprojectflutter
 
-A new Flutter project.
+Meu primeiro projeto em flutter pelo bootcamp da DIO.
 
-## Getting Started
+## Desafio
 
-This project is a starting point for a Flutter application.
+Neste primeiro módulo, conheci o Flutter e preparei todo o ambiente para o desenvolvimento.
 
-A few resources to get you started if this is your first Flutter project:
+ Sendo assim, os meus objetivos neste desafio foram: Instalar o Flutter​, configurar o Ambiente, criar um projeto, fazer pequenas alterações de cores e fontes, e, por fim, subir o projeto no GitHub.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
